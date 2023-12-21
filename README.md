@@ -1,2 +1,2 @@
 # Block-Wise-Missing
-A powerful R library aimed to solve regression and classification problems regarding missing data without need of imputation or skiping data
+An advanced R library specifically developed for tackling regression and classification problems involving missing data, eliminating the need for imputation or data skipping.
