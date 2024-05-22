@@ -15,3 +15,5 @@ An advanced R library specifically developed for tackling regression and classif
 - Depends: rlang (>= 1.0.0), R (>= 3.2.0)
 - RoxygenNote: 7.2.3
 - Built: R 4.2.1
+
+You can find an example of using the library in the file "bwm_tutorial.pdf". To reproduce the example, ensure that you download the data file "tutorial_bwm_small.RData".
