@@ -5,7 +5,7 @@ An advanced R library specifically developed for tackling regression and classif
 - Title: Regression and classification models for block-wise missing data
 - Version: 2.0.0
 - Author: Sergi Baena-Miret [aut, cre], Ferran Reverter [ctb], Esteban Vegas [ctb]
-- Date: 2023-09-21
+- Date: 2025-02-14
 - Maintainer: Sergi Baena-Miret <sergibaena94@gmail.com>
 - License: GPL (>= 2)
 - Encoding: UTF-8
