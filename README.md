@@ -3,7 +3,7 @@ An advanced R library specifically developed for tackling regression and classif
 
 - Package: bwm
 - Title: Regression and classification models for block-wise missing data
-- Version: 1.0.0
+- Version: 2.0.0
 - Author: Sergi Baena-Miret [aut, cre], Ferran Reverter [ctb], Esteban Vegas [ctb]
 - Date: 2023-09-21
 - Maintainer: Sergi Baena-Miret <sergibaena94@gmail.com>
